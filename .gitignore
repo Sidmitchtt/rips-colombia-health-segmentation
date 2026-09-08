@@ -1,0 +1,30 @@
+# Datos grandes
+data/raw/*.csv
+data/raw/*.zip
+data/external/*.zip
+data/external/*.shp
+data/external/*.shx
+data/external/*.dbf
+data/external/*.prj
+data/external/*.cpg
+data/bronze/*.parquet
+data/silver/*.parquet
+data/gold/*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
