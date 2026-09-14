@@ -1,0 +1,7 @@
+cluster,cluster_nombre,n_municipios,total_atenciones,pct_no_def_prom,ratio_consultas_proced
+0,Rurales pequeños - perfil clínico,7,58702.0,0.0,5.25
+1,Alta carga NO DEFINIDO,266,274556023.0,45.37,0.45
+2,Perfil quirúrgico medio,183,47195339.0,23.9,0.73
+3,Grandes centros urbanos,172,1849378436.0,20.55,0.72
+4,Perfil quirúrgico con buen registro,311,125604387.0,15.0,0.5
+5,Alta demanda de urgencias,125,124682895.0,25.22,0.57
